@@ -5,4 +5,4 @@ ENV MYSQL_DATABASE=anonymousdb
 ENV MYSQL_USER=novazstudio
 ENV MYSQL_PASSWORD=novazstudio2025!#$%
 
-EXPOSE 3306
+EXPOSE 0.0.0.0
